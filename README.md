@@ -31,4 +31,5 @@
   
 * Архитектура
   - MVVM
+  - Single Activity
   - Android Architecture components (ViewModel, LiveData)
