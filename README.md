@@ -7,7 +7,6 @@
 
 
 # Характеристики проекта
-<img align="right" src="https://github.com/Grishan0v/OtusProject/blob/master/20201103_001334.gif">
 
 * 100% Kotlin
 * Model-View-ViewModel
